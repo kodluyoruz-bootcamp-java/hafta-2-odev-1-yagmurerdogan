@@ -1,0 +1,9 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(íï¯ˆ8Ç¯İÇŞ.
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(İö¨8§áÇŞ.
+v
+java:S1104"TMake keyboard a static final constant or non-public and provide accessors if needed.(âÛíàûÿÿÿÿ8ÅÎÙÇŞ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ì ®·8¨„ÛÇŞ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ñªÓ·ùÿÿÿÿ8áÕŞÇŞ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ù¥®´ÿÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(…Üäï8±ïßÇŞ.
